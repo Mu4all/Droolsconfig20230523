@@ -50,7 +50,7 @@ public class OrderHeader implements java.io.Serializable {
 	private java.lang.String CARRIER_TYPE;
 
 	@org.kie.api.definition.type.Label("COMPANY")
-	private BigInteger COMPANY;
+	private String COMPANY;
 
 	@org.kie.api.definition.type.Label("CONSOLIDATED")
 	private java.lang.String CONSOLIDATED;
@@ -1406,11 +1406,11 @@ public class OrderHeader implements java.io.Serializable {
 		this.USER_DEF20_DATE_TIME = USER_DEF20_DATE_TIME;
 	}
 
-	public java.math.BigInteger getCOMPANY() {
+	public java.lang.String getCOMPANY() {
 		return this.COMPANY;
 	}
 
-	public void setCOMPANY(java.math.BigInteger COMPANY) {
+	public void setCOMPANY(java.lang.String COMPANY) {
 		this.COMPANY = COMPANY;
 	}
 
