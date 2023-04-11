@@ -4987,7 +4987,7 @@
               <name>1|108</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">null</rawValue>
+            <rawValue class="string">5</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
