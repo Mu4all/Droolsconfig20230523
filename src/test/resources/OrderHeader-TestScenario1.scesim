@@ -3914,7 +3914,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">&quot;SHIPMENT_ID&quot;</rawValue>
+            <rawValue class="string">&quot;CUSTOMER_CATEGORY5&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4055,6 +4055,7 @@
               <name>1|15</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;ADB&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4255,6 +4256,7 @@
               <name>1|35</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">&quot;bla&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
