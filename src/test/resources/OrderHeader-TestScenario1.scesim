@@ -3,7 +3,7 @@
     <scesimModelDescriptor>
       <factMappings>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>Index</name>
             <type>OTHER</type>
@@ -15,9 +15,10 @@
           <className>java.lang.Integer</className>
           <factAlias>#</factAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>70.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>Description</name>
             <type>OTHER</type>
@@ -29,9 +30,10 @@
           <className>java.lang.String</className>
           <factAlias>Scenario description</factAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>300.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>FieldToValidate</step>
             </ExpressionElement>
@@ -49,9 +51,10 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -72,9 +75,10 @@
           <expressionAlias>ACCESSORIAL_CHARGE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -95,9 +99,10 @@
           <expressionAlias>ACTUAL_DELIVERY_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -118,9 +123,10 @@
           <expressionAlias>ACTUAL_SHIP_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -141,9 +147,10 @@
           <expressionAlias>ALLOCATE_COMPLETE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -164,9 +171,10 @@
           <expressionAlias>ALTERNATE_EMAIL_ADDRESS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -187,9 +195,10 @@
           <expressionAlias>AUTHORIZED_EMPL_NAME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -210,9 +219,10 @@
           <expressionAlias>AUTHORIZED_EMPL_TITLE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -233,9 +243,10 @@
           <expressionAlias>BASE_FREIGHT_CHARGE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -256,9 +267,10 @@
           <expressionAlias>BOL_NUM_ALPHA</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -279,9 +291,10 @@
           <expressionAlias>CARRIER</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -302,9 +315,10 @@
           <expressionAlias>CARRIER_GROUP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -325,9 +339,10 @@
           <expressionAlias>CARRIER_SERVICE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -348,9 +363,10 @@
           <expressionAlias>CARRIER_TYPE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -371,9 +387,10 @@
           <expressionAlias>COMPANY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -394,9 +411,10 @@
           <expressionAlias>CONSOLIDATED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -417,9 +435,10 @@
           <expressionAlias>CONSOLIDATION_ALLOWED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -440,9 +459,10 @@
           <expressionAlias>CONSOLIDATION_DOCK_LOC_AREA</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -463,9 +483,10 @@
           <expressionAlias>CONSOLIDATION_DOCK_LOC_POS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -486,9 +507,10 @@
           <expressionAlias>CONTAINERIZED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -509,9 +531,10 @@
           <expressionAlias>CONTAINERS_SHIPPED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -532,9 +555,10 @@
           <expressionAlias>CREATE_ORDERS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -555,9 +579,10 @@
           <expressionAlias>CREATION_DATE_TIME_STAMP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -578,9 +603,10 @@
           <expressionAlias>CREATION_PROCESS_STAMP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -601,9 +627,10 @@
           <expressionAlias>CUSTOMER</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -624,9 +651,10 @@
           <expressionAlias>CUSTOMER_ADDRESS1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -647,9 +675,10 @@
           <expressionAlias>CUSTOMER_ADDRESS2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -670,9 +699,10 @@
           <expressionAlias>CUSTOMER_ADDRESS3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -693,9 +723,10 @@
           <expressionAlias>CUSTOMER_ATTENTION_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -716,9 +747,10 @@
           <expressionAlias>CUSTOMER_CATEGORY1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -739,9 +771,10 @@
           <expressionAlias>CUSTOMER_CATEGORY10</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -762,9 +795,10 @@
           <expressionAlias>CUSTOMER_CATEGORY2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -785,9 +819,10 @@
           <expressionAlias>CUSTOMER_CATEGORY3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -808,9 +843,10 @@
           <expressionAlias>CUSTOMER_CATEGORY4</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -831,9 +867,10 @@
           <expressionAlias>CUSTOMER_CATEGORY5</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -854,9 +891,10 @@
           <expressionAlias>CUSTOMER_CATEGORY6</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -877,9 +915,10 @@
           <expressionAlias>CUSTOMER_CATEGORY7</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -900,9 +939,10 @@
           <expressionAlias>CUSTOMER_CATEGORY8</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -923,9 +963,10 @@
           <expressionAlias>CUSTOMER_CATEGORY9</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -946,9 +987,10 @@
           <expressionAlias>CUSTOMER_CITY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -969,9 +1011,10 @@
           <expressionAlias>CUSTOMER_COUNTRY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -992,9 +1035,10 @@
           <expressionAlias>CUSTOMER_EMAIL_ADDRESS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1015,9 +1059,10 @@
           <expressionAlias>CUSTOMER_FAX_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1038,9 +1083,10 @@
           <expressionAlias>CUSTOMER_NAME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1061,9 +1107,10 @@
           <expressionAlias>CUSTOMER_PHONE_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1084,9 +1131,10 @@
           <expressionAlias>CUSTOMER_PO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1107,9 +1155,10 @@
           <expressionAlias>CUSTOMER_POSTAL_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1130,9 +1179,10 @@
           <expressionAlias>CUSTOMER_RESIDENTIAL_FLAG</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1153,9 +1203,10 @@
           <expressionAlias>CUSTOMER_STATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1176,9 +1227,10 @@
           <expressionAlias>DATE_TIME_STAMP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1199,9 +1251,10 @@
           <expressionAlias>ECCN</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1222,9 +1275,10 @@
           <expressionAlias>ERP_ORDER</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1245,9 +1299,10 @@
           <expressionAlias>EXPORT_PORT</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1268,9 +1323,10 @@
           <expressionAlias>EXPORT_TAX_ID</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1291,9 +1347,10 @@
           <expressionAlias>FREIGHT_BILL_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1314,9 +1371,10 @@
           <expressionAlias>FREIGHT_BILL_TO_ADDRESS1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1337,9 +1395,10 @@
           <expressionAlias>FREIGHT_BILL_TO_ADDRESS2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1360,9 +1419,10 @@
           <expressionAlias>FREIGHT_BILL_TO_ADDRESS3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1383,9 +1443,10 @@
           <expressionAlias>FREIGHT_BILL_TO_ATTENTION_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1406,9 +1467,10 @@
           <expressionAlias>FREIGHT_BILL_TO_CITY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1429,9 +1491,10 @@
           <expressionAlias>FREIGHT_BILL_TO_COUNTRY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1452,9 +1515,10 @@
           <expressionAlias>FREIGHT_BILL_TO_EMAIL_ADDRESS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1475,9 +1539,10 @@
           <expressionAlias>FREIGHT_BILL_TO_FAX_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1498,9 +1563,10 @@
           <expressionAlias>FREIGHT_BILL_TO_NAME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1521,9 +1587,10 @@
           <expressionAlias>FREIGHT_BILL_TO_PHONE_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1544,9 +1611,10 @@
           <expressionAlias>FREIGHT_BILL_TO_POSTAL_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1567,9 +1635,10 @@
           <expressionAlias>FREIGHT_BILL_TO_STATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1590,9 +1659,10 @@
           <expressionAlias>FREIGHT_DISCOUNT</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1613,9 +1683,10 @@
           <expressionAlias>FREIGHT_TERMS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1636,9 +1707,10 @@
           <expressionAlias>FTZ</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1659,9 +1731,10 @@
           <expressionAlias>IMMEDIATE_NEEDS_NOTE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1682,9 +1755,10 @@
           <expressionAlias>INTERFACE_ACTION_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1705,9 +1779,10 @@
           <expressionAlias>INTERFACE_CONDITION</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1728,9 +1803,10 @@
           <expressionAlias>INTERFACE_ERROR</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1751,9 +1827,10 @@
           <expressionAlias>INTERFACE_RECORD_ID</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1774,9 +1851,10 @@
           <expressionAlias>INTERMEDIATE_ADDRESS1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1797,9 +1875,10 @@
           <expressionAlias>INTERMEDIATE_ADDRESS2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1820,9 +1899,10 @@
           <expressionAlias>INTERMEDIATE_ADDRESS3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1843,9 +1923,10 @@
           <expressionAlias>INTERMEDIATE_ATTENTION_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1866,9 +1947,10 @@
           <expressionAlias>INTERMEDIATE_CITY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1889,9 +1971,10 @@
           <expressionAlias>INTERMEDIATE_CONSIGNEE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1912,9 +1995,10 @@
           <expressionAlias>INTERMEDIATE_COUNTRY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1935,9 +2019,10 @@
           <expressionAlias>INTERMEDIATE_EMAIL_ADDRESS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1958,9 +2043,10 @@
           <expressionAlias>INTERMEDIATE_FAX_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -1981,9 +2067,10 @@
           <expressionAlias>INTERMEDIATE_NAME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2004,9 +2091,10 @@
           <expressionAlias>INTERMEDIATE_PHONE_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2027,9 +2115,10 @@
           <expressionAlias>INTERMEDIATE_POSTAL_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2050,9 +2139,10 @@
           <expressionAlias>INTERMEDIATE_STATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2073,9 +2163,10 @@
           <expressionAlias>LIABILITY_TERMS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2096,9 +2187,10 @@
           <expressionAlias>LICENSE_EXP_DATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2119,9 +2211,10 @@
           <expressionAlias>LOADING_PIER</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2142,9 +2235,10 @@
           <expressionAlias>ORDER_DATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2165,9 +2259,10 @@
           <expressionAlias>ORDER_TYPE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2188,9 +2283,10 @@
           <expressionAlias>PARTIES</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2211,9 +2307,10 @@
           <expressionAlias>PLANNED_DELIVERY_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2234,9 +2331,10 @@
           <expressionAlias>PLANNED_SHIP_DATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2257,9 +2355,10 @@
           <expressionAlias>PRIORITY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2280,9 +2379,10 @@
           <expressionAlias>PROCESS_STAMP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2303,9 +2403,10 @@
           <expressionAlias>PROCESS_TYPE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2326,9 +2427,10 @@
           <expressionAlias>PRO_NUM_ALPHA</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2349,9 +2451,10 @@
           <expressionAlias>QUANTITY_UM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2372,9 +2475,10 @@
           <expressionAlias>REJECTION_NOTE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2395,9 +2499,10 @@
           <expressionAlias>REQUESTED_DELIVERY_DATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2418,9 +2523,10 @@
           <expressionAlias>REQUESTED_DELIVERY_TYPE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2441,9 +2547,10 @@
           <expressionAlias>ROUTE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2464,9 +2571,10 @@
           <expressionAlias>ROUTING_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2487,9 +2595,10 @@
           <expressionAlias>SCHEDULED_SHIP_DATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2510,9 +2619,10 @@
           <expressionAlias>SHIPMENT_ID</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2533,9 +2643,10 @@
           <expressionAlias>SHIPPER_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2556,9 +2667,10 @@
           <expressionAlias>SHIPTO_RESIDENTIAL_FLAG</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2579,9 +2691,10 @@
           <expressionAlias>SHIP_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2602,9 +2715,10 @@
           <expressionAlias>SHIP_TO_ADDRESS1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2625,9 +2739,10 @@
           <expressionAlias>SHIP_TO_ADDRESS2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2648,9 +2763,10 @@
           <expressionAlias>SHIP_TO_ADDRESS3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2671,9 +2787,10 @@
           <expressionAlias>SHIP_TO_ATTENTION_TO</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2694,9 +2811,10 @@
           <expressionAlias>SHIP_TO_CITY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2717,9 +2835,10 @@
           <expressionAlias>SHIP_TO_COUNTRY</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2740,9 +2859,10 @@
           <expressionAlias>SHIP_TO_EMAIL_ADDRESS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2763,9 +2883,10 @@
           <expressionAlias>SHIP_TO_FAX_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2786,9 +2907,10 @@
           <expressionAlias>SHIP_TO_NAME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2809,9 +2931,10 @@
           <expressionAlias>SHIP_TO_PHONE_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2832,9 +2955,10 @@
           <expressionAlias>SHIP_TO_POSTAL_CODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2855,9 +2979,10 @@
           <expressionAlias>SHIP_TO_STATE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2878,9 +3003,10 @@
           <expressionAlias>SINGLE_ITEM_CARTONS</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2901,9 +3027,10 @@
           <expressionAlias>STOP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2924,9 +3051,10 @@
           <expressionAlias>STOP_SEQUENCE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2947,9 +3075,10 @@
           <expressionAlias>STORE_DISTRIBUTION</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2970,9 +3099,10 @@
           <expressionAlias>TMP_INTERNAL_ORDER_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -2993,9 +3123,10 @@
           <expressionAlias>TMP_INTERNAL_SHIPMENT_NUM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3016,9 +3147,10 @@
           <expressionAlias>TOTAL_FREIGHT_CHARGE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3039,9 +3171,10 @@
           <expressionAlias>TRANSPORTATION_MODE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3062,9 +3195,10 @@
           <expressionAlias>UNLOADING_PORT</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3085,9 +3219,10 @@
           <expressionAlias>USER_DEF1</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3108,9 +3243,10 @@
           <expressionAlias>USER_DEF10</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3131,9 +3267,10 @@
           <expressionAlias>USER_DEF11</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3154,9 +3291,10 @@
           <expressionAlias>USER_DEF12</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3177,9 +3315,10 @@
           <expressionAlias>USER_DEF13</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3200,9 +3339,10 @@
           <expressionAlias>USER_DEF14</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3223,9 +3363,10 @@
           <expressionAlias>USER_DEF15</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3246,9 +3387,10 @@
           <expressionAlias>USER_DEF16</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3269,9 +3411,10 @@
           <expressionAlias>USER_DEF17_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3292,9 +3435,10 @@
           <expressionAlias>USER_DEF18_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3315,9 +3459,10 @@
           <expressionAlias>USER_DEF19_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3338,9 +3483,10 @@
           <expressionAlias>USER_DEF2</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3361,9 +3507,10 @@
           <expressionAlias>USER_DEF20_DATE_TIME</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3384,9 +3531,10 @@
           <expressionAlias>USER_DEF3</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3407,9 +3555,10 @@
           <expressionAlias>USER_DEF4</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3430,9 +3579,10 @@
           <expressionAlias>USER_DEF5</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3453,9 +3603,10 @@
           <expressionAlias>USER_DEF6</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3476,9 +3627,10 @@
           <expressionAlias>USER_DEF7</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3499,9 +3651,10 @@
           <expressionAlias>USER_DEF8</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3522,9 +3675,10 @@
           <expressionAlias>USER_DEF9</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3545,9 +3699,10 @@
           <expressionAlias>USER_STAMP</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3568,9 +3723,10 @@
           <expressionAlias>VALIDATED_LICENSE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3591,9 +3747,10 @@
           <expressionAlias>VALUE_SHIPPED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3614,9 +3771,10 @@
           <expressionAlias>VOLUME_SHIPPED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3637,9 +3795,10 @@
           <expressionAlias>VOLUME_UM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3660,9 +3819,10 @@
           <expressionAlias>WAREHOUSE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3683,9 +3843,10 @@
           <expressionAlias>WEIGHT_SHIPPED</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>OrderHeader</step>
             </ExpressionElement>
@@ -3706,9 +3867,10 @@
           <expressionAlias>WEIGHT_UM</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
-          <expressionElements class="linked-list">
+          <expressionElements>
             <ExpressionElement>
               <step>ValidateField</step>
             </ExpressionElement>
@@ -3726,10 +3888,11 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
-    <scesimData class="linked-list">
+    <scesimData>
       <Scenario>
         <factMappingValues>
           <FactMappingValue>
@@ -3751,6 +3914,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">SHIPMENT_ID</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4821,6 +4985,7 @@
               <name>1|108</name>
               <type>GIVEN</type>
             </expressionIdentifier>
+            <rawValue class="string">20</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5351,6 +5516,18 @@
               <name>1|161</name>
               <type>EXPECT</type>
             </expressionIdentifier>
+            <rawValue class="string">false</rawValue>
+          </FactMappingValue>
+          <FactMappingValue>
+            <factIdentifier>
+              <name>#</name>
+              <className>java.lang.Integer</className>
+            </factIdentifier>
+            <expressionIdentifier>
+              <name>Index</name>
+              <type>OTHER</type>
+            </expressionIdentifier>
+            <rawValue class="string">1</rawValue>
           </FactMappingValue>
         </factMappingValues>
       </Scenario>
@@ -5360,7 +5537,7 @@
     <scesimModelDescriptor>
       <factMappings>
         <FactMapping>
-          <expressionElements class="linked-list"/>
+          <expressionElements/>
           <expressionIdentifier>
             <name>1|1</name>
             <type>GIVEN</type>
@@ -5373,10 +5550,11 @@
           <factAlias>INSTANCE 1</factAlias>
           <expressionAlias>PROPERTY 1</expressionAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
-    <scesimData class="linked-list">
+    <scesimData>
       <BackgroundData>
         <factMappingValues>
           <FactMappingValue>
