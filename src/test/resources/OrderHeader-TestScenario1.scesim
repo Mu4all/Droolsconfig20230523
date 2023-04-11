@@ -51,7 +51,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>173.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -75,7 +75,7 @@
           <expressionAlias>ACCESSORIAL_CHARGE</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>167.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -4985,7 +4985,7 @@
               <name>1|108</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">20</rawValue>
+            <rawValue class="string">null</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5550,7 +5550,7 @@
           <factAlias>INSTANCE 1</factAlias>
           <expressionAlias>PROPERTY 1</expressionAlias>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>114.0</columnWidth>
+          <columnWidth>1859.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
